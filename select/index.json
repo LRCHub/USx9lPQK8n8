@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Mariposa",
+  "base_artist": "Peach Tree Rascals",
+  "createdAt": "2025-12-30T07:13:07.530581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mariposa Libre",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/01_Mariposa_Libre_Sting.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/02_Mariposa_Traicionera_Maná.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mariposa Pontiac - Rock del País (En Vivo)",
+      "artist": "Indio Solari y los Fundamentalistas del Aire Acondicionado",
+      "has_synced": true,
+      "path": "select/03_Mariposa_Pontiac_-_Rock_del_País_(En_Vivo)_Indio_Solari_y_los_Fundamentalistas_del_Aire_Acondicionado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mariposa Pontiac - Rock del País (En Vivo)",
+      "artist": "Indio Solari & Los Fundamentalistas del Aire Acondicionado",
+      "has_synced": true,
+      "path": "select/04_Mariposa_Pontiac_-_Rock_del_País_(En_Vivo)_Indio_Solari_&_Los_Fundamentalistas_del_Aire_Acondicionado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mariposa",
+      "artist": "Peach Tree Rascals",
+      "has_synced": false,
+      "path": "select/05_Mariposa_Peach_Tree_Rascals.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mariposa (NOW What's Next!)",
+      "artist": "Peach Tree Rascals",
+      "has_synced": false,
+      "path": "select/06_Mariposa_(NOW_What's_Next!)_Peach_Tree_Rascals.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mariposa Tecknicolor",
+      "artist": "Fito Páez",
+      "has_synced": true,
+      "path": "select/07_Mariposa_Tecknicolor_Fito_Páez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Como Una Mariposa",
+      "artist": "Pandora",
+      "has_synced": true,
+      "path": "select/08_Como_Una_Mariposa_Pandora.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mariposa",
+      "artist": "Isabella Lovestory",
+      "has_synced": true,
+      "path": "select/09_Mariposa_Isabella_Lovestory.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Viva Mariposa",
+      "artist": "We Butter the Bread With Butter",
+      "has_synced": true,
+      "path": "select/10_Viva_Mariposa_We_Butter_the_Bread_With_Butter.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Viva Mariposa (instrumental)",
+      "artist": "We Butter the Bread With Butter",
+      "has_synced": false,
+      "path": "select/11_Viva_Mariposa_(instrumental)_We_Butter_the_Bread_With_Butter.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mariposa",
+      "artist": "La Oreja de Van Gogh",
+      "has_synced": true,
+      "path": "select/12_Mariposa_La_Oreja_de_Van_Gogh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mala Mariposa",
+      "artist": "Jean Dawson",
+      "has_synced": true,
+      "path": "select/13_Mala_Mariposa_Jean_Dawson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mariposa",
+      "artist": "Nelson Gonçalves",
+      "has_synced": false,
+      "path": "select/14_Mariposa_Nelson_Gonçalves.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mariposa",
+      "artist": "Peach Tree Rascals",
+      "has_synced": true,
+      "path": "select/15_Mariposa_Peach_Tree_Rascals.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La Mariposa",
+      "artist": "Cri-Cri",
+      "has_synced": true,
+      "path": "select/16_La_Mariposa_Cri-Cri.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "La Mariposa",
+      "artist": "Francisco Gabilondo Soler Cri-Crí",
+      "has_synced": true,
+      "path": "select/17_La_Mariposa_Francisco_Gabilondo_Soler_Cri-Crí.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mariposa",
+      "artist": "Peach Tree Rascals",
+      "has_synced": false,
+      "path": "select/pl_01_Mariposa_Peach_Tree_Rascals.txt"
+    }
+  ]
+}
